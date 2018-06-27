@@ -7,9 +7,10 @@ ruby '2.5.0'
 gem 'rails', '~> 5.2.0'
 
 gem 'devise'
-
+gem "less-rails"
 gem 'twitter-bootstrap-rails'
 gem 'jquery-rails'
+
 gem 'devise-bootstrap-views'
 
 # Use Puma as the app server
