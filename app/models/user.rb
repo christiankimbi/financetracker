@@ -26,5 +26,4 @@ class User < ApplicationRecord
     under_stock_limit? && !stock_already_added?(ticker_symbol)
   end
   
-  
 end
